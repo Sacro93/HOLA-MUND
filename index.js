@@ -1,4 +1,4 @@
 const nombreUsuario= prompt ('Ingrese su Nombre');
 
-alert(`Hola  ${nombreUsuario}`);
+alert('Hola' nombreUsuario);
 
